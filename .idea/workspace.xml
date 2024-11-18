@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ea47f606-d6f6-4749-a4b3-4140f7e0975d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FedhaDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FedhaDatabase.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2n4C8vRKNhEdGNnN2HT9eeAnAOo" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Dashboard.executor": "Run",
+    "Application.FedhaDatabase.executor": "Run",
+    "Application.FedhaYouthGroup.executor": "Run",
+    "Application.Loan.executor": "Run",
+    "Application.Login.executor": "Run",
+    "Application.Members.executor": "Run",
+    "Application.Register.executor": "Run",
+    "Application.Taskbar.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.STATE": "right",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "137",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.STATE": "left",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/mousa/IdeaProjects/FedhaYouthGroup/lib",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "sqlite",
+      "java.sql.Driver",
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+      <recent name="$USER_HOME$/.jdks/openjdk-23!/jdk.management" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Register" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Register" />
+      <module name="FedhaYouthGroup" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Register" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ea47f606-d6f6-4749-a4b3-4140f7e0975d" name="Changes" comment="" />
+      <created>1728222809094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728222809094</updated>
+      <workItem from="1728222810095" duration="58000" />
+      <workItem from="1728227070134" duration="2740000" />
+      <workItem from="1728234047012" duration="829000" />
+      <workItem from="1728239623635" duration="6484000" />
+      <workItem from="1728289858361" duration="191000" />
+      <workItem from="1728326253180" duration="5939000" />
+      <workItem from="1728367664475" duration="2890000" />
+      <workItem from="1728372809926" duration="1245000" />
+      <workItem from="1728634517312" duration="3651000" />
+      <workItem from="1728649209141" duration="10426000" />
+      <workItem from="1728661918675" duration="96000" />
+      <workItem from="1728667832104" duration="2178000" />
+      <workItem from="1728711342992" duration="515000" />
+      <workItem from="1728734643918" duration="3167000" />
+      <workItem from="1728740872818" duration="1541000" />
+      <workItem from="1728748600316" duration="333000" />
+      <workItem from="1728751416527" duration="295000" />
+      <workItem from="1728755904580" duration="1808000" />
+      <workItem from="1728799503898" duration="2634000" />
+      <workItem from="1728895716362" duration="2679000" />
+      <workItem from="1728909746414" duration="404000" />
+      <workItem from="1728930293406" duration="7320000" />
+      <workItem from="1728973292554" duration="561000" />
+      <workItem from="1728977177404" duration="340000" />
+      <workItem from="1728977801658" duration="623000" />
+      <workItem from="1728980756168" duration="4946000" />
+      <workItem from="1728988390171" duration="132000" />
+      <workItem from="1728990384830" duration="1429000" />
+      <workItem from="1728998519081" duration="402000" />
+      <workItem from="1729001811543" duration="1033000" />
+      <workItem from="1729003112919" duration="2665000" />
+      <workItem from="1729006179705" duration="94000" />
+      <workItem from="1729011774216" duration="1159000" />
+      <workItem from="1729019194653" duration="1980000" />
+      <workItem from="1729079985384" duration="90000" />
+      <workItem from="1729089676813" duration="284000" />
+      <workItem from="1729090195162" duration="127000" />
+      <workItem from="1729090806246" duration="3666000" />
+      <workItem from="1729146431658" duration="1246000" />
+      <workItem from="1729176655005" duration="1488000" />
+      <workItem from="1729178211198" duration="3573000" />
+      <workItem from="1729183582858" duration="458000" />
+      <workItem from="1729192214716" duration="724000" />
+      <workItem from="1729197729250" duration="228000" />
+      <workItem from="1729239859577" duration="1281000" />
+      <workItem from="1729262643933" duration="378000" />
+      <workItem from="1729267339629" duration="1113000" />
+      <workItem from="1729268738306" duration="1620000" />
+      <workItem from="1729278818587" duration="4854000" />
+      <workItem from="1729306550201" duration="202000" />
+      <workItem from="1729309443799" duration="9561000" />
+      <workItem from="1729325672805" duration="49000" />
+      <workItem from="1729331149571" duration="1722000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
